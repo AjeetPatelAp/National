@@ -1,0 +1,242 @@
+#outer
+{
+height:2500px;
+width:1350px;
+//background-color:grey;
+margin-top:-10px;
+margin-left:-10px;
+}
+#maintop
+{
+height:60px;
+width:1350px;
+background-color:#017dc3;
+//position:fixed;
+}
+#logo
+{
+height:50px;
+width:200px;
+float:left;
+margin-top:5px;
+margin-left:100px;
+//background-color:yellow;
+}
+#search
+{
+height:50px;
+width:500px;
+margin-top:5px;
+float:left;
+//background-color:red;
+}
+#logindiv
+{
+height:50px;
+width:120px;
+float:left;
+margin-left:100px;
+//background-color:green;
+}
+#ls
+{
+height:20px;
+width:120px;
+margin-top:20px;
+float:left;
+//background-color:red;
+}
+#morediv
+{
+height:50px;
+width:60px;
+float:left;
+margin-left:50px;
+//background-color:pink;
+}
+#mr
+{
+height:20px;
+width:50px;
+margin-top:20px;
+float:left;
+//background-color:red;
+}
+#cartdiv
+{
+height:50px;
+width:100px;
+float:left;
+margin-left:50px;
+//background-color:blue;
+}
+#crt
+{
+height:20px;
+width:50px;
+margin-top:20px;
+float:left;
+//background-color:red;
+}
+#menu
+{
+height:40px;
+width:1350px;
+background-color:white;
+}
+.homediv
+{
+height:25px;
+width:120px;
+float:left;
+margin-top:9px;
+margin-left:60px;
+//background-color:green;
+}
+b:hover
+{
+color:blue;
+transition:.5s;
+}
+#form
+{
+	height:2000px;
+	width:1350px;
+background: #BE93C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	//background-image:url(../img/ourteam.jpg);
+//background-repeat:none;
+//background-size:cover;
+//background-color:red;
+}
+#father
+{
+	height:2000px;
+	width:1350px;
+	background-color:rgba(0,0,0,0.3);
+}
+#team
+{
+	height:50px;
+	width:1350px;
+	float:left;
+	line-height:50px;
+	background-color:rgba(0,0,0,0.5);
+}
+.members
+{
+	height:250px;
+	width:230px;
+	margin-top:20px;
+	margin-left:30px;
+	float:left;
+	//background-color:red;
+}
+.name
+{
+	height:35px;
+	width:170px;
+	line-height:35px;
+	border-radius:20px 20px 20px 20px;
+	margin-top:5px;
+	background-color:rgba(255,255,255,0.3);
+}
+span
+{
+	color:white;
+}
+#bottom
+{
+height:300px;
+width:1350;
+float:left;
+//background-color:black;
+}
+.box
+{
+height:280px;
+width:450;
+float:left;
+//background-color:black;
+}
+.sbox
+{
+height:225px;
+width:300px;
+margin-top:20px;
+margin-left:110px;
+float:left;
+//background-color:green;
+}
+.sbox a
+{
+	text-decoration:none;
+	color:gray;
+}
+.sbox a:hover
+{
+	color:blue;
+	text-decoration:underline;
+	transition:.5s;
+}
+#social
+{
+	height:60px;
+	width:1350;
+	float:left;
+	line-height:60px;
+	//background-color:red;
+}
+#socialleft
+{
+	height:60px;
+	width:875px;
+	float:left;
+	//background-color:blue;
+}
+#socialright
+{
+	height:60px;
+	width:475px;
+	float:left;
+	line-height:60px;
+	//background-color:red;
+}
+#tfo
+{
+height:100;
+width:1350;
+float:left;
+//background-color:red;	
+}
+#logoslider
+{
+height:100;
+width:1350;
+float:left;
+//background-color:blue;	
+}
+#pymntgtway
+{
+height:100;
+width:1350;
+float:left;
+//background-color:red;	
+}
+#address
+{
+height:250;
+width:1350;
+float:left;
+//background-color:red;	
+}
+.add2
+{
+height:250;
+width:550;
+float:left;
+margin-left:80px;
+//background-color:green;
+}
